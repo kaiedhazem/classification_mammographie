@@ -1,5 +1,3 @@
 env/*
-dataset/train/*
-dataset/validation/*
-!dataset/train/.gitkeep
-!dataset/validation/.gitkeep
+dataset/*
+!dataset/.gitkeep

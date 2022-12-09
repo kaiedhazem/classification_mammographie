@@ -77,3 +77,4 @@ zipp==3.11.0
 scipy
 sklearn
 scikit-learn
+pretty_confusion_matrix
